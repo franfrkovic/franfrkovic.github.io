@@ -1,11 +1,17 @@
 {
     "events": [
         {
-            "short": "Battle of Alexandria"
+            "needspassword": true,
+            "id": 73,
+            "url": "http://remote.bloxus.com/",
+            "short": "Bloxus test"
         },
         {
-            "short": "Michael Phelps breaks the record"
+            "needspassword": false,
+            "id": 74,
+            "url": "http://flickrtest1.userland.com/",
+            "short": "Manila Test"
         }
     ],
-    "date": "07-31"
+    "stat": "ok"
 }
