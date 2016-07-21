@@ -15,8 +15,8 @@
 	       {
             "year": "2006",
             "description": "Fidel Castro hands over power to brother Raúl Castro.",
-            "short”: "Fidel Castro hands over power",
-            "link”: "https://en.wikipedia.org/wiki/Fidel_Castro"
+            "short": "Fidel Castro hands over power",
+            "link": "https://en.wikipedia.org/wiki/Fidel_Castro"
         }
     ],
     "date": "07-31"
