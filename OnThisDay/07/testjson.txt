@@ -1,17 +1,17 @@
 {
     "events": [
         {
-            "needspassword": true,
-            "id": 73,
-            "url": "http://remote.bloxus.com/",
-            "short": "Bloxus test"
+            "year": "2012",
+            "description": "",
+            "short": "Michael Phelps sets the record",
+            "link": "http://remote.bloxus.com/"
         },
         {
-            "needspassword": false,
-            "id": 74,
-            "url": "http://flickrtest1.userland.com/",
-            "short": "Manila Test"
+            "year": "30 BC",
+            "description": "",
+            "short": "Battle of Alexandria",
+            "link": "http://flickrtest1.userland.com/"
         }
     ],
-    "stat": "ok"
+    "date": "07-31"
 }
