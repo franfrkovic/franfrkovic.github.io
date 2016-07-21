@@ -1,17 +1,23 @@
 {
-    "blogs": [
+    “events”: [
         {
-            "needspassword": true,
-            "id": 73,
-            "url": "http://remote.bloxus.com/",
-            "name": "Bloxus test"
+            “year”: “30 BC”,
+            “description”: “Battle of Alexandria: Mark Antony achieves a minor victory but ultimately loses.”,
+            “short”: “Battle of Alexandria“,
+            “link”: "https://en.wikipedia.org/wiki/Battle_of_Alexandria_(30_BC)"
         },
         {
-            "needspassword": false,
-            "id": 74,
-            "url": "http://flickrtest1.userland.com/",
-            "name": "Manila Test"
+            “year”: “2012”,
+            “description”: “Michael Phelps breaks the record set in 1964 by Larisa Latynina for the most medals won at the Olympics.”,
+            “short”: “Michael Phelps breaks the record“,
+            “link”: "https://en.wikipedia.org/wiki/Michael_Phelps"
+        },
+	{
+            “year”: “2006”,
+            “description”: “Fidel Castro hands over power to brother Raúl Castro.”,
+            “short”: “Fidel Castro hands over power“,
+            “link”: "https://en.wikipedia.org/wiki/Fidel_Castro"
         }
     ],
-    "stat": "ok"
+    “date”: “07-31”
 }
