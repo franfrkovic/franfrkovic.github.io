@@ -11,12 +11,6 @@
             "description": "Michael Phelps breaks the record set in 1964 by Larisa Latynina for the most medals won at the Olympics.",
             "short": "Michael Phelps breaks the record",
             "link": "https://en.wikipedia.org/wiki/Michael_Phelps"
-        },
-	       {
-            "year": "2006",
-            "description": "Fidel Castro hands over power to brother Raúl Castro.",
-            "short": "Fidel Castro hands over power",
-            "link": "https://en.wikipedia.org/wiki/Fidel_Castro"
         }
     ],
     "date": "07-31"
