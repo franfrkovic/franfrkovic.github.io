@@ -1,0 +1,24 @@
+{
+    "events": [
+        {
+            "year": "285",
+            "description": "",
+            "short": "Diocletian appoints Maximian as Caesar, co-ruler.",
+            "link": "https://en.wikipedia.org/wiki/Diocletian"
+        },
+        {
+            "year": "306",
+            "description": "",
+            "short": "Constantine I is proclaimed Roman emperor by his troops.",
+            "link": "https://en.wikipedia.org/wiki/Constantine_the_Great"
+        }
+        ,
+        {
+            "year": "2010",
+            "description": "",
+            "short": "WikiLeaks publishes classified documents about the War in Afghanistan.",
+            "link": "https://en.wikipedia.org/wiki/WikiLeaks"
+        }
+    ],
+    "date": "07-25"
+}

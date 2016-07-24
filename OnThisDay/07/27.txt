@@ -1,0 +1,17 @@
+{
+    "events": [
+        {
+            "year": "1890",
+            "description": "",
+            "short": "Vincent van Gogh shoots himself and dies two days later.",
+            "link": "https://en.wikipedia.org/wiki/Vincent_van_Gogh"
+        },
+        {
+            "year": "1942",
+            "description": "",
+            "short": "World War II: Allied forces successfully halt the final Axis advance into Egypt.",
+            "link": "https://en.wikipedia.org/wiki/First_Battle_of_El_Alamein"
+        }
+    ],
+    "date": "07-37"
+}

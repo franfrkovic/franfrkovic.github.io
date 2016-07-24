@@ -1,0 +1,24 @@
+{
+    "events": [
+        {
+            "year": "1866",
+            "description": "",
+            "short": "Tennessee becomes the first U.S. state to be readmitted to the Union following the American Civil War.",
+            "link": "https://en.wikipedia.org/wiki/Reconstruction_Era"
+        },
+        {
+            "year": "1969",
+            "description": "",
+            "short": "Apollo 11 splashes down safely in the Pacific Ocean.",
+            "link": "https://en.wikipedia.org/wiki/Apollo_11"
+        },
+        {
+            "year": "1974",
+            "description": "",
+            "short": "The United States Supreme Court unanimously ruled that President Richard Nixon did not have the authority to withhold subpoenaed White House tapes.",
+            "link": "https://en.wikipedia.org/wiki/Watergate_scandal"
+        }
+
+    ],
+    "date": "07-24"
+}
