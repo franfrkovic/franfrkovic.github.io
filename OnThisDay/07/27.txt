@@ -1,17 +1,35 @@
 {
     "events": [
         {
-            "year": "1890",
+            "year": "1987",
             "description": "",
-            "short": "Vincent van Gogh shoots himself and dies two days later.",
-            "link": "https://en.wikipedia.org/wiki/Vincent_van_Gogh"
+            "short": "RMS Titanic Inc. begins the first expedited salvage of wreckage of the RMS Titanic.",
+            "link": "https://en.wikipedia.org/wiki/Premier_Exhibitions#RMS_Titanic_Inc."
+        },
+        {
+            "year": "1974",
+            "description": "",
+            "short": "The House of Representatives Judiciary Committee votes 27 to 11 to recommend the first article of impeachment (for obstruction of justice) against President Richard Nixon.",
+            "link": "https://en.wikipedia.org/wiki/Watergate_scandal"
+        },
+        {
+            "year": "1953",
+            "description": "",
+            "short": "Fighting in the Korean War ends when the United States, China, and North Korea sign an armistice agreement.",
+            "link": "https://en.wikipedia.org/wiki/Korean_War"
         },
         {
             "year": "1942",
             "description": "",
-            "short": "World War II: Allied forces successfully halt the final Axis advance into Egypt.",
+            "short": "Allied forces successfully halt the final Axis advance into Egypt.",
             "link": "https://en.wikipedia.org/wiki/First_Battle_of_El_Alamein"
+        },
+        {
+            "year": "1890",
+            "description": "",
+            "short": "Vincent van Gogh shoots himself and dies two days later.",
+            "link": "https://en.wikipedia.org/wiki/Vincent_van_Gogh"
         }
     ],
-    "date": "07-37"
+    "date": "07-27"
 }

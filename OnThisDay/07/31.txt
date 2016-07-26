@@ -1,0 +1,23 @@
+{
+    "events": [
+        {
+            "year": "30 BC",
+            "description": "",
+            "short": "Battle of Alexandria: Mark Antony achieves a minor victory over Octavian's forces, but most of his army subsequently deserts, leading to his suicide.",
+            "link": "https://en.wikipedia.org/wiki/Battle_of_Alexandria_(30_BC)"
+        },
+        {
+            "year": "1932",
+            "description": "",
+            "short": "The NSDAP (Nazi Party) wins more than 38% of the vote in German elections.",
+            "link": "https://en.wikipedia.org/wiki/German_federal_election,_July_1932"
+        },
+        {
+            "year": "2006",
+            "description": "",
+            "short": "Fidel Castro hands over power to brother Raúl Castro.",
+            "link": "https://en.wikipedia.org/wiki/Fidel_Castro"
+        }
+    ],
+    "date": "07-31"
+}

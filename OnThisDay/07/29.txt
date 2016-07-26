@@ -1,0 +1,23 @@
+{
+    "events": [
+        {
+            "year": "1148",
+            "description": "",
+            "short": "The Siege of Damascus ends in a decisive crusader defeat and leads to the disintegration of the Second Crusade.",
+            "link": "https://en.wikipedia.org/wiki/Siege_of_Damascus_(1148)"
+        },
+        {
+            "year": "1836",
+            "description": "",
+            "short": "Inauguration of the Arc de Triomphe in Paris, France.",
+            "link": "https://en.wikipedia.org/wiki/Arc_de_Triomphe"
+        },
+        {
+            "year": "1987",
+            "description": "",
+            "short": "British Prime Minister Margaret Thatcher and President of France François Mitterrand sign the agreement to build a tunnel under the English Channel (Eurotunnel)",
+            "link": "https://en.wikipedia.org/wiki/Eurotunnel"
+        }
+    ],
+    "date": "07-29"
+}

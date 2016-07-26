@@ -1,0 +1,23 @@
+{
+    "events": [
+        {
+            "year": "1794",
+            "description": "",
+            "short": "Maximilien Robespierre and Louis Antoine de Saint-Just are executed by guillotine in Paris, France",
+            "link": "https://en.wikipedia.org/wiki/French_Revolution"
+        },
+        {
+            "year": "1914",
+            "description": "",
+            "short": "In the culmination of the July Crisis, Austria-Hungary declares war on Serbia, igniting World War I.",
+            "link": "https://en.wikipedia.org/wiki/World_War_I"
+        },
+        {
+            "year": "1935",
+            "description": "",
+            "short": "First flight of the Boeing B-17 Flying Fortress.",
+            "link": "https://en.wikipedia.org/wiki/Boeing_B-17_Flying_Fortress"
+        }
+    ],
+    "date": "07-28"
+}
