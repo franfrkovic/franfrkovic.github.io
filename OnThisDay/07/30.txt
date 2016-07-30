@@ -1,19 +1,19 @@
 {
-    "event21321s": [
+    "events": [
         {
-            "1year": "762",
+            "year": "762",
             "description": "",
             "short": "Baghdad is founded by caliph Al-Mansur.",
             "link": "https://en.wikipedia.org/wiki/Baghdad"
         },
         {
-            "1year": "1930",
+            "year": "1930",
             "description": "",
             "short": "In Montevideo, Uruguay wins the first FIFA World Cup.",
             "link": "https://en.wikipedia.org/wiki/1930_FIFA_World_Cup"
         },
         {
-            "1year": "2003",
+            "year": "2003",
             "description": "",
             "short": "In Mexico, the last 'old style' Volkswagen Beetle rolls off the assembly line.",
             "link": "https://en.wikipedia.org/wiki/Volkswagen_Beetle"
