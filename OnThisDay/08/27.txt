@@ -33,7 +33,7 @@
 		{
 			"year": "1813",
 			"description": "",
-			"short": "The Battle of Dresden was fought on 26Ð27 August 1813, resulting in a French victory under Napoleon against forces of the Sixth Coalition.",
+			"short": "The Battle of Dresden was in August 1813, resulting in a French victory under Napoleon against forces of the Sixth Coalition.",
 			"link": "https://en.wikipedia.org/wiki/Battle_of_Dresden"
 		},
 		{
