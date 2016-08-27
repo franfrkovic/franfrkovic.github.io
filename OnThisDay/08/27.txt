@@ -1,0 +1,47 @@
+{
+	"events": [
+		{
+			"year": "1859",
+			"description": "",
+			"short": "Petroleum is discovered in Titusville, Pennsylvania leading to the world's first commercially successful oil well.",
+			"link": "https://en.wikipedia.org/wiki/Petroleum"
+		},
+		{
+			"year": "1991",
+			"description": "",
+			"short": "Moldova declares independence from the USSR.",
+			"link": "https://en.wikipedia.org/wiki/Moldova"
+		},
+		{
+			"year": "1908",
+			"description": "",
+			"short": "Lyndon B. Johnson, 36th President of the USA, is born.",
+			"link": "https://en.wikipedia.org/wiki/Lyndon_B._Johnson"
+		},
+		{
+			"year": "1961",
+			"description": "",
+			"short": "Tom Ford, fashion designer, is born.",
+			"link": "https://en.wikipedia.org/wiki/Tom_Ford"
+		},
+		{
+			"year": "1991",
+			"description": "",
+			"short": "The European Community recognizes the independence of the Baltic states of Estonia, Latvia and Lithuania.",
+			"link": "https://en.wikipedia.org/wiki/Baltic_states"
+		},
+		{
+			"year": "1813",
+			"description": "",
+			"short": "The Battle of Dresden was fought on 26Ð27 August 1813, resulting in a French victory under Napoleon against forces of the Sixth Coalition.",
+			"link": "https://en.wikipedia.org/wiki/Battle_of_Dresden"
+		},
+		{
+			"year": "1883",
+			"description": "",
+			"short": "Eruption of Krakatoa in present-day Indonesia, one of the deadliest and most destructive volcanic events in recorded history.",
+			"link": "https://en.wikipedia.org/wiki/1883_eruption_of_Krakatoa"
+		}
+	],
+	"date": "08-27"
+}
