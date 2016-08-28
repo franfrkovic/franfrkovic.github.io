@@ -1,0 +1,47 @@
+{
+	"events": [
+		{
+			"year": "1189",
+			"description": "",
+			"short": "The Crusaders begin the Siege of Acre under Guy of Lusignan in Third Crusade.",
+			"link": "https://en.wikipedia.org/wiki/Third_Crusade"
+		},
+		{
+			"year": "1916",
+			"description": "",
+			"short": "Germany declares war on Romania, and Italy declares war on Germany in WW1.",
+			"link": "https://en.wikipedia.org/wiki/World_War_I"
+		},
+		{
+			"year": "1917",
+			"description": "",
+			"short": "Ten Suffragettes are arrested while picketing the White House.",
+			"link": "https://en.wikipedia.org/wiki/Suffragettes"
+		},
+		{
+			"year": "1931",
+			"description": "",
+			"short": "France and the Soviet Union sign a treaty of non-aggression.",
+			"link": "https://en.wikipedia.org/wiki/Soviet_Union"
+		},
+		{
+			"year": "1937",
+			"description": "",
+			"short": "Toyota Motors becomes an independent company.",
+			"link": "https://en.wikipedia.org/wiki/Toyota_Motors"
+		},
+		{
+			"year": "1963",
+			"description": "",
+			"short": "The Reverend Martin Luther King, Jr. gives his I Have a Dream speech.",
+			"link": "https://en.wikipedia.org/wiki/I_Have_a_Dream"
+		},
+		{
+			"year": "1789",
+			"description": "",
+			"short": "William Herschel discovers a new moon of Saturn: Enceladus.",
+			"link": "https://en.wikipedia.org/wiki/Enceladus"
+		}
+	],
+	"date": "08-28"
+}
