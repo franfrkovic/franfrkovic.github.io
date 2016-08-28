@@ -1,0 +1,41 @@
+{
+	"events": [
+		{
+			"year": "1835",
+			"description": "",
+			"short": "Melbourne is founded.",
+			"link": "https://en.wikipedia.org/wiki/Melbourne"
+		},
+		{
+			"year": "1945",
+			"description": "",
+			"short": "Hong Kong is liberated from Japan by British Armed Forces.",
+			"link": "https://en.wikipedia.org/wiki/Hong_Kong1945"
+		},
+		{
+			"year": "1991",
+			"description": "",
+			"short": "Azerbaijan declares independence from Soviet Union.",
+			"link": "https://en.wikipedia.org/wiki/Azerbaijan"
+		},
+		{
+			"year": "1995",
+			"description": "",
+			"short": "NATO launches Operation Deliberate Force against Bosnian Serb forces.",
+			"link": "https://en.wikipedia.org/wiki/Bosnian_War"
+		},
+		{
+			"year": "1400",
+			"description": "",
+			"short": "Vlad II Dracul is born. He was the father of Vlad Tepes, later know as The Impaler and served as an inspiration for Dracula.",
+			"link": "https://en.wikipedia.org/wiki/Vlad_II_Dracul"
+		},
+		{
+			"year": "1871",
+			"description": "",
+			"short": "Ernest Rutherford is born, discoverer of radioactive half-life and considered by many as father of nuclear physics.",
+			"link": "https://en.wikipedia.org/wiki/Ernest_Rutherford"
+		}
+	],
+	"date": "08-30"
+}

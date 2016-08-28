@@ -1,0 +1,77 @@
+{
+	"events": [
+		{
+			"year": "1350",
+			"description": "",
+			"short": "Battle of Winchelsea where the English naval fleet under King Edward III defeated a Castilian fleet of 40 ships.",
+			"link": "https://en.wikipedia.org/wiki/Battle_of_Winchelsea"
+		},
+		{
+			"year": "1521",
+			"description": "",
+			"short": "The Ottoman Turks capture Nándorfehérvár (Belgrade today). Not the only thing they did on this day!",
+			"link": "https://en.wikipedia.org/wiki/Belgrade"
+		},
+		{
+			"year": "1526",
+			"description": "",
+			"short": "Battle of Mohács where the Ottoman Turks led by Suleiman the Magnificent defeat and kill the last Jagiellonian king of Hungary and Bohemia.",
+			"link": "https://en.wikipedia.org/wiki/Battle_of_Mohács"
+		},
+		{
+			"year": "1825",
+			"description": "",
+			"short": "Kingdom of Portugal recognizes the Independence of Brazil.",
+			"link": "https://en.wikipedia.org/wiki/Brazil"
+		},
+		{
+			"year": "1831",
+			"description": "",
+			"short": "Michael Faraday discovers electromagnetic induction. Turns out to be pretty important.",
+			"link": "https://en.wikipedia.org/wiki/Michael_Faraday"
+		},
+		{
+			"year": "1898",
+			"description": "",
+			"short": "The Goodyear tire company is founded.",
+			"link": "https://en.wikipedia.org/wiki/Goodyear_Tire_and_Rubber_Company"
+		},
+		{
+			"year": "1941",
+			"description": "",
+			"short": "Tallinn, the capital of Estonia, is occupied by Nazi Germany following an occupation by the Soviet Union.",
+			"link": "https://en.wikipedia.org/wiki/Tallinn"
+		},
+		{
+			"year": "1944",
+			"description": "",
+			"short": "Slovak National Uprising takes place as 60,000 Slovak troops turn against the Nazis.",
+			"link": "https://en.wikipedia.org/wiki/Slovak_National_Uprising"
+		},
+		{
+			"year": "1949",
+			"description": "",
+			"short": "The Soviet Union tests its first atomic bomb, known as First Lightning or Joe 1, at Semipalatinsk, Kazakhstan.",
+			"link": "https://en.wikipedia.org/wiki/Soviet_atomic_bomb_project"
+		},
+		{
+			"year": "1991",
+			"description": "",
+			"short": "Supreme Soviet of the Soviet Union suspends all activities of the Soviet Communist Party.",
+			"link": "https://en.wikipedia.org/wiki/Soviet_Communist_Party"
+		},
+		{
+			"year": "2004",
+			"description": "",
+			"short": "Michael Schumacher wins his 5th consecutive Formula One Drivers' championship.",
+			"link": "https://en.wikipedia.org/wiki/Michael_Schumacher"
+		},
+		{
+			"year": "1959",
+			"description": "",
+			"short": "Stephen Wolfram, English-American physicist and mathematician is born.",
+			"link": "https://en.wikipedia.org/wiki/Stephen_Wolfram"
+		}
+	],
+	"date": "08-29"
+}

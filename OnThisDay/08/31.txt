@@ -1,0 +1,59 @@
+{
+	"events": [
+		{
+			"year": "1314",
+			"description": "",
+			"short": "King HŒkon V Magnusson moves the capital of Norway from Bergen to Oslo.",
+			"link": "https://en.wikipedia.org/wiki/Oslo"
+		},
+		{
+			"year": "1422",
+			"description": "",
+			"short": "King Henry V of England dies of dysentery while in France. His son, Henry VI becomes King of England at the age of 9 months",
+			"link": "https://en.wikipedia.org/wiki/Henry_V_of_England"
+		},
+		{
+			"year": "1803",
+			"description": "",
+			"short": "Lewis and Clark start the first American expedition to cross what is now the western portion of the United States.",
+			"link": "https://en.wikipedia.org/wiki/Lewis_and_Clark_Expedition"
+		},
+		{
+			"year": "1895",
+			"description": "",
+			"short": "German Count Ferdinand von Zeppelin patents his Navigable Balloon, today known as Zeppelin.",
+			"link": "https://en.wikipedia.org/wiki/Zeppelin"
+		},
+		{
+			"year": "1939",
+			"description": "",
+			"short": "Nazi Germany soldiers attach German radio station posing as Poles, creating an excuse for Germany to attack Poland. Invasion of Poland marks the beginning of World War II.",
+			"link": "https://en.wikipedia.org/wiki/Gleiwitz_incident"
+		},
+		{
+			"year": "1962",
+			"description": "",
+			"short": "Trinidad and Tobago becomes independent.",
+			"link": "https://en.wikipedia.org/wiki/Trinidad_and_Tobago"
+		},
+		{
+			"year": "1997",
+			"description": "",
+			"short": "Diana, Princess of Wales, and her companion Dodi Fayed die in a car crash in Paris.",
+			"link": "https://en.wikipedia.org/wiki/Diana,_Princess_of_Wales"
+		},
+		{
+			"year": "12",
+			"description": "",
+			"short": "Roman emperor Caligula is born.",
+			"link": "https://en.wikipedia.org/wiki/Caligula"
+		},
+		{
+			"year": "161",
+			"description": "",
+			"short": "Roman emperor Commodus is born.",
+			"link": "https://en.wikipedia.org/wiki/Commodus"
+		}
+	],
+	"date": "08-31"
+}
