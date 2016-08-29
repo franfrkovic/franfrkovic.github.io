@@ -9,13 +9,13 @@
 		{
 			"year": "1521",
 			"description": "",
-			"short": "The Ottoman Turks capture Nándorfehérvár (Belgrade today). Not the only thing they did on this day!",
+			"short": "The Ottoman Turks capture Nandorfehervar (Belgrade today). Not the only thing they did on this day!",
 			"link": "https://en.wikipedia.org/wiki/Belgrade"
 		},
 		{
 			"year": "1526",
 			"description": "",
-			"short": "Battle of Mohács where the Ottoman Turks led by Suleiman the Magnificent defeat and kill the last Jagiellonian king of Hungary and Bohemia.",
+			"short": "Battle of Mohacs where the Ottoman Turks led by Suleiman the Magnificent defeat and kill the last Jagiellonian king of Hungary and Bohemia.",
 			"link": "https://en.wikipedia.org/wiki/Battle_of_Mohács"
 		},
 		{
