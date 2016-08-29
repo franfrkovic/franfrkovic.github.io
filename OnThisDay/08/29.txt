@@ -16,7 +16,7 @@
 			"year": "1526",
 			"description": "",
 			"short": "Battle of Mohacs where the Ottoman Turks led by Suleiman the Magnificent defeat and kill the last Jagiellonian king of Hungary and Bohemia.",
-			"link": "https://en.wikipedia.org/wiki/Battle_of_Moh‡cs"
+			"link": "https://en.wikipedia.org/wiki/Suleiman_the_Magnificent"
 		},
 		{
 			"year": "1825",
