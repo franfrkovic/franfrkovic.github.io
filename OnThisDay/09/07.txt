@@ -1,0 +1,35 @@
+﻿{
+	"events": [
+		{
+			"year": "1896",
+			"description": "",
+			"short": "The first successful heart surgery was conducted on this day by Ludwig Rehn.",
+			"link": "https://en.wikipedia.org/wiki/Cardiac_surgery"
+		},
+		{
+			"year": "1901",
+			"description": "",
+			"short": "The Boxer Rebellion in Qing dynasty China officially ends with the signing of the Boxer Protocol.",
+			"link": "https://en.wikipedia.org/wiki/Boxer_Rebellion"
+		},
+		{
+			"year": "1940",
+			"description": "",
+			"short": "The German Luftwaffe begins the Blitz, bombing London and other British cities for over 50 consecutive nights.",
+			"link": "https://en.wikipedia.org/wiki/The_Blitz"
+		},
+		{
+			"year": "1953",
+			"description": "",
+			"short": "Nikita Khrushchev is elected first secretary of the Communist Party of the Soviet Union.",
+			"link": "https://en.wikipedia.org/wiki/Nikita_Khrushchev"
+		},
+		{
+			"year": "1978",
+			"description": "",
+			"short": "Bulgarian dissident Georgi Markov is assassinated by Bulgarian secret police agent, by means of a ricin pellet fired from a specially-designed umbrella.",
+			"link": "https://en.wikipedia.org/wiki/Georgi_Markov"
+		}
+	],
+	"date": "09-07"
+}

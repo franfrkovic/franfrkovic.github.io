@@ -1,0 +1,35 @@
+﻿{
+	"events": [
+		{
+			"year": "1504",
+			"description": "",
+			"short": "Michelangelo's David is unveiled in Piazza della Signoria in Florence.",
+			"link": "https://en.wikipedia.org/wiki/Michelangelo%27s_David"
+		},
+		{
+			"year": "1892",
+			"description": "",
+			"short": "The Pledge of Allegiance is first recited.",
+			"link": "https://en.wikipedia.org/wiki/Pledge_of_Allegiance"
+		},
+		{
+			"year": "1930",
+			"description": "",
+			"short": "3M begins marketing Scotch transparent tape.",
+			"link": "https://en.wikipedia.org/wiki/Scotch_Tape"
+		},
+		{
+			"year": "1974",
+			"description": "",
+			"short": "Gerald Ford pardons former President Richard Nixon for any crimes Nixon may have committed while in office.",
+			"link": "https://en.wikipedia.org/wiki/Richard_Nixon"
+		},
+		{
+			"year": "1474",
+			"description": "",
+			"short": "Ludovico Ariosto, Italian playwright and poet, author of Orlando Furioso, is born.",
+			"link": "https://en.wikipedia.org/wiki/Orlando_Furioso"
+		}
+	],
+	"date": "09-08"
+}

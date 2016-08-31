@@ -1,0 +1,47 @@
+﻿{
+	"events": [
+		{
+			"year": "1661",
+			"description": "",
+			"short": "Nicolas Fouquet, Superintendent of Finances for Louis XIV, is arrested in Nantes by D'Artagnan, captain of the king's musketeers.",
+			"link": "https://en.wikipedia.org/wiki/Musketeer"
+		},
+		{
+			"year": "1666",
+			"description": "",
+			"short": "Great Fire of London ends.",
+			"link": "https://en.wikipedia.org/wiki/Great_Fire_of_London"
+		},
+		{
+			"year": "1774",
+			"description": "",
+			"short": "First Continental Congress assembles in Philadelphia.",
+			"link": "https://en.wikipedia.org/wiki/Continental_Congress"
+		},
+		{
+			"year": "1836",
+			"description": "",
+			"short": "Sam Houston is elected as the first president of the Republic of Texas.",
+			"link": "https://en.wikipedia.org/wiki/Republic_of_Texas"
+		},
+		{
+			"year": "1941",
+			"description": "",
+			"short": "Whole territory of Estonia is occupied by Nazi Germany.",
+			"link": "https://en.wikipedia.org/wiki/Estonia"
+		},
+		{
+			"year": "1957",
+			"description": "",
+			"short": "On the Road, a novel by American writer Jack Kerouac, is published.",
+			"link": "https://en.wikipedia.org/wiki/On_the_Road"
+		},
+		{
+			"year": "1847",
+			"description": "",
+			"short": "Jesse James, American outlaw, is born.",
+			"link": "http://www.imdb.com/title/tt0443680/"
+		}
+	],
+	"date": "09-05"
+}

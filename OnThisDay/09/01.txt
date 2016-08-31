@@ -1,0 +1,53 @@
+﻿{
+	"events": [
+		{
+			"year": "1715",
+			"description": "",
+			"short": "King Louis XIV of France dies after a reign of 72 years—the longest of any major European monarch.",
+			"link": "https://en.wikipedia.org/wiki/Louis_XIV_of_France"
+		},
+		{
+			"year": "1910",
+			"description": "",
+			"short": "Sport Club Corinthians Paulista, the first FIFA World Club Champion, is founded.",
+			"link": "https://en.wikipedia.org/wiki/Sport_Club_Corinthians_Paulista"
+		},
+		{
+			"year": "1939",
+			"description": "",
+			"short": "Nazi Germany invades Poland, making this date the beginning of World War II. WW2 ended on September 2, but 6 years later…",
+			"link": "https://en.wikipedia.org/wiki/World_War_II"
+		},
+		{
+			"year": "1952",
+			"description": "",
+			"short": "The Old Man and the Sea, novel by Ernest Hemingway, is first published.",
+			"link": "https://en.wikipedia.org/wiki/The_Old_Man_and_the_Sea"
+		},
+		{
+			"year": "1961",
+			"description": "",
+			"short": "The first conference of the Non Aligned Countries is held in Belgrade.",
+			"link": "https://en.wikipedia.org/wiki/Non-Aligned_Movement"
+		},
+		{
+			"year": "1969",
+			"description": "",
+			"short": "A coup in Libya brings Muammar Gaddafi to power.",
+			"link": "https://en.wikipedia.org/wiki/1969_Libyan_coup_d%27état"
+		},
+		{
+			"year": "1974",
+			"description": "",
+			"short": "The SR-71 Blackbird sets a still valid record for flying from New York to London in the time of 1 hour, 54 minutes and 56.4 seconds at a speed of 1,435 miles per hour (2,310 km/h).",
+			"link": "https://en.wikipedia.org/wiki/SR-71_Blackbird"
+		},
+		{
+			"year": "1875",
+			"description": "",
+			"short": "Edgar Rice Burroughs, best known as creator of Tarzan, is born.",
+			"link": "https://en.wikipedia.org/wiki/Edgar_Rice_Burroughs"
+		}
+	],
+	"date": "09-01"
+}

@@ -1,0 +1,53 @@
+﻿{
+	"events": [
+		{
+			"year": "44 BC",
+			"description": "",
+			"short": "This was a very eventful day in history. Let’s start with Cicero launching the first of his Philippics (oratorical attacks) on Mark Antony, who later did not forget or forgive.",
+			"link": "https://en.wikipedia.org/wiki/Cicero"
+		},
+		{
+			"year": "31 BC",
+			"description": "",
+			"short": "Battle of Actium: Octavian defeat troops under Mark Antony and Cleopatra. This made way for Octavian to become the Roman emperor, and Cleopatra was last active pharaoh of Egypt.",
+			"link": "https://en.wikipedia.org/wiki/Augustus"
+		},
+		{
+			"year": "1192",
+			"description": "",
+			"short": "Treaty of Jaffa is signed between Richard I of England and Saladin, leading to the end of the Third Crusade.",
+			"link": "https://en.wikipedia.org/wiki/Third_Crusade"
+		},
+		{
+			"year": "1666",
+			"description": "",
+			"short": "The Great Fire of London breaks out and burns for three days, destroying 10,000 buildings.",
+			"link": "https://en.wikipedia.org/wiki/Great_Fire_of_London"
+		},
+		{
+			"year": "1752",
+			"description": "",
+			"short": "Great Britain adopts the Gregorian calendar, nearly two centuries later than most of Western Europe.",
+			"link": "https://en.wikipedia.org/wiki/Gregorian_calendar"
+		},
+		{
+			"year": "1859",
+			"description": "",
+			"short": "A solar super storm affects electrical telegraph service.",
+			"link": "https://en.wikipedia.org/wiki/Aurora#Auroral_events_of_historical_significance"
+		},
+		{
+			"year": "1901",
+			"description": "",
+			"short": "Vice President of the United States Theodore Roosevelt utters the famous phrase, "Speak softly and carry a big stick”.",
+			"link": "https://en.wikipedia.org/wiki/Big_Stick_ideology"
+		},
+		{
+			"year": "1945",
+			"description": "",
+			"short": "The Japanese Instrument of Surrender is signed and accepted aboard the battleship USS Missouri, marking the end of World War II.",
+			"link": "https://en.wikipedia.org/wiki/Japanese_Instrument_of_Surrender"
+		}
+	],
+	"date": "09-02"
+}

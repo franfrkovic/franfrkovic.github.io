@@ -1,0 +1,47 @@
+﻿{
+	"events": [
+		{
+			"year": "476",
+			"description": "",
+			"short": "Romulus Augustulus, last emperor of the Western Roman Empire, is deposed by Odoacer. This marks the ending the Western Roman Empire.",
+			"link": "https://en.wikipedia.org/wiki/Fall_of_the_Western_Roman_Empire"
+		},
+		{
+			"year": "1781",
+			"description": "",
+			"short": "Los Angeles is founded as El Pueblo de Nuestra Señora La Reina de los Ángeles de Porciúncula (The Village of Our Lady, the Queen of the Angels of Porziuncola) by 44 Spanish settlers.",
+			"link": "https://en.wikipedia.org/wiki/El_Pueblo_de_Nuestra_Señora_La_Reina_de_los_Ángeles_de_Porciúncula"
+		},
+		{
+			"year": "1870",
+			"description": "",
+			"short": "Emperor Napoleon III of France is deposed and the Third Republic is declared.",
+			"link": "https://en.wikipedia.org/wiki/Napoleon_III"
+		},
+		{
+			"year": "1886",
+			"description": "",
+			"short": "After almost 30 years of fighting, Apache leader Geronimo, with his remaining warriors, surrenders to General Nelson Miles.",
+			"link": "https://en.wikipedia.org/wiki/Geronimo"
+		},
+		{
+			"year": "1941",
+			"description": "",
+			"short": "World War II: A German submarine makes the first attack against a United States ship, the USS Greer.",
+			"link": "https://en.wikipedia.org/wiki/USS_Greer_(DD-145)"
+		},
+		{
+			"year": "1970",
+			"description": "",
+			"short": "Salvador Allende is elected President of Chile. In 1973 he was deposed by the military coup, sponsored by CIA.",
+			"link": "https://en.wikipedia.org/wiki/Salvador_Allende"
+		},
+		{
+			"year": "1998",
+			"description": "",
+			"short": "Google is founded by Larry Page and Sergey Brin, two students at Stanford University.",
+			"link": "https://www.google.com"
+		}
+	],
+	"date": "09-04"
+}

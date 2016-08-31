@@ -1,0 +1,41 @@
+﻿{
+	"events": [
+		{
+			"year": "1522",
+			"description": "",
+			"short": "The Victoria, the only surviving ship of Ferdinand Magellan's expedition, returns to Spain, becoming the first ship to circumnavigate the world. Magellan did not make it to the end of the journey.",
+			"link": "https://en.wikipedia.org/wiki/Ferdinand_Magellan"
+		},
+		{
+			"year": "1803",
+			"description": "",
+			"short": "British scientist John Dalton begins using symbols to represent the atoms of different elements.",
+			"link": "https://en.wikipedia.org/wiki/Atom"
+		},
+		{
+			"year": "1916",
+			"description": "",
+			"short": "The first self-service grocery store, Piggly Wiggly, was opened in Memphis, Tennessee, by Clarence Saunders.",
+			"link": "https://en.wikipedia.org/wiki/Piggly_Wiggly"
+		},
+		{
+			"year": "1972",
+			"description": "",
+			"short": "Nine Israel athletes taken hostage at the Munich Olympic Games by the Palestinian "Black September" terrorist group die at the hands of the kidnappers during a failed rescue attempt.",
+			"link": "https://en.wikipedia.org/wiki/Munich_massacre"
+		},
+		{
+			"year": "1983",
+			"description": "",
+			"short": "The Soviet Union admits to shooting down Korean Air Lines Flight 007, stating that the pilots did not know it was a civilian aircraft when it violated Soviet airspace.",
+			"link": "https://en.wikipedia.org/wiki/Korean_Air_Lines_Flight_007"
+		},
+		{
+			"year": "1991",
+			"description": "",
+			"short": "The name Saint Petersburg is restored to Russia's second largest city, which had been known as Leningrad since 1924.",
+			"link": "https://en.wikipedia.org/wiki/Saint_Petersburg"
+		}
+	],
+	"date": "09-06"
+}
