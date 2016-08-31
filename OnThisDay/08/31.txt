@@ -1,9 +1,9 @@
-{
+﻿{
 	"events": [
 		{
 			"year": "1314",
 			"description": "",
-			"short": "King H�kon V Magnusson moves the capital of Norway from Bergen to Oslo.",
+			"short": "King Håkon V Magnusson moves the capital of Norway from Bergen to Oslo.",
 			"link": "https://en.wikipedia.org/wiki/Oslo"
 		},
 		{

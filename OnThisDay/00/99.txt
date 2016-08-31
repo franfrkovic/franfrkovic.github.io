@@ -1,10 +1,10 @@
-{
+Ôªø{
 	"events": [
 		{
 			"year": "1999",
 			"description": "",
-			"short": "Nándorfehérvár",
-			"link": "https://en.wikipedia.org/wiki/Battle_of_Mohács"
+			"short": "N√°ndorfeh√©rv√°r",
+			"link": "https://en.wikipedia.org/wiki/Battle_of_Moh√°cs"
 		}
 	],
 	"date": "00-99"
