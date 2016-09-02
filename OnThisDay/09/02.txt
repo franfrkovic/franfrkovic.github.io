@@ -39,7 +39,7 @@
 		{
 			"year": "1901",
 			"description": "",
-			"short": "Vice President of the United States Theodore Roosevelt utters the famous phrase, "Speak softly and carry a big stick”.",
+			"short": "Vice President of the United States Theodore Roosevelt utters the famous phrase, ‘Speak softly and carry a big stick’.",
 			"link": "https://en.wikipedia.org/wiki/Big_Stick_ideology"
 		},
 		{
