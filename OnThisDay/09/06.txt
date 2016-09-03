@@ -21,7 +21,7 @@
 		{
 			"year": "1972",
 			"description": "",
-			"short": "Nine Israel athletes taken hostage at the Munich Olympic Games by the Palestinian "Black September" terrorist group die at the hands of the kidnappers during a failed rescue attempt.",
+			"short": "Nine Israel athletes taken hostage at the Munich Olympic Games by the Palestinian ‘Black September’ terrorist group die at the hands of the kidnappers during a failed rescue attempt.",
 			"link": "https://en.wikipedia.org/wiki/Munich_massacre"
 		},
 		{

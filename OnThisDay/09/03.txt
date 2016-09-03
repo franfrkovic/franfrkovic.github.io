@@ -15,7 +15,7 @@
 		{
 			"year": "1189",
 			"description": "",
-			"short": "Richard I of England (a.k.a. Richard "the Lionheart") is crowned at Westminster.",
+			"short": "Richard I of England (a.k.a. Richard the Lionheart) is crowned at Westminster.",
 			"link": "https://en.wikipedia.org/wiki/Richard_I_of_England"
 		},
 		{
