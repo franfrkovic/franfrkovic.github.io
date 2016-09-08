@@ -1,0 +1,35 @@
+﻿{
+	"events": [
+		{
+			"year": "1501",
+			"description": "",
+			"short": "Michelangelo begins work on his statue of David.",
+			"link": "https://en.wikipedia.org/wiki/David_(Michelangelo)"
+		},
+		{
+			"year": "1541",
+			"description": "",
+			"short": "After three years of exile, John Calvin returns to Geneva to reform the church under a body of doctrine known as Calvinism.",
+			"link": "https://en.wikipedia.org/wiki/Calvinism"
+		},
+		{
+			"year": "1791",
+			"description": "",
+			"short": "King Louis XVI of France accepts the first written constitution in France.",
+			"link": "https://en.wikipedia.org/wiki/French_Constitution_of_1791"
+		},
+		{
+			"year": "1985",
+			"description": "",
+			"short": "Super Mario Bros. is released in Japan for the NES, which starts the Super Mario series of platforming games.",
+			"link": "https://en.wikipedia.org/wiki/Super_Mario_Bros."
+		},
+		{
+			"year": "1475",
+			"description": "",
+			"short": "Cesare Borgia, Italian cardinal, is born.",
+			"link": "https://en.wikipedia.org/wiki/Cesare_Borgia"
+		}
+	],
+	"date": "09-13"
+}

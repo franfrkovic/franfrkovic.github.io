@@ -1,0 +1,41 @@
+﻿{
+	"events": [
+		{
+			"year": "1752",
+			"description": "",
+			"short": "The British Empire adopts the Gregorian calendar, skipping eleven days (the previous day was September 2).",
+			"link": "https://en.wikipedia.org/wiki/Gregorian_calendar"
+		},
+		{
+			"year": "1901",
+			"description": "",
+			"short": "U.S. President William McKinley dies after an assassination attempt on September 6, and is succeeded by Vice President Theodore Roosevelt.",
+			"link": "https://en.wikipedia.org/wiki/William_McKinley"
+		},
+		{
+			"year": "1917",
+			"description": "",
+			"short": "Russia is officially proclaimed a republic.",
+			"link": "https://en.wikipedia.org/wiki/Republic"
+		},
+		{
+			"year": "1959",
+			"description": "",
+			"short": "The Soviet probe Luna 2 crashes onto the Moon, becoming the first man-made object to reach it.",
+			"link": "https://en.wikipedia.org/wiki/Luna_2"
+		},
+		{
+			"year": "2000",
+			"description": "",
+			"short": "Microsoft releases Windows ME. Not a thing they’d like to see remembered to much most likely… Go read about Luna 2 instead.",
+			"link": "https://en.wikipedia.org/wiki/Windows_ME"
+		},
+		{
+			"year": "1949",
+			"description": "",
+			"short": "Tommy Seebach is born.",
+			"link": "https://www.youtube.com/watch?v=f6tnj7IEI0E"
+		}
+	],
+	"date": "09-14"
+}

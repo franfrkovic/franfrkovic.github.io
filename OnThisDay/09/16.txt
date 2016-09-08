@@ -1,0 +1,41 @@
+﻿{
+	"events": [
+		{
+			"year": "1620",
+			"description": "",
+			"short": "Pilgrims set sail from England to the New World on the Mayflower.",
+			"link": "https://en.wikipedia.org/wiki/Mayflower"
+		},
+		{
+			"year": "1908",
+			"description": "",
+			"short": "The General Motors Corporation is founded.",
+			"link": "https://en.wikipedia.org/wiki/General_Motors_Corporation"
+		},
+		{
+			"year": "1963",
+			"description": "",
+			"short": "Malaysia is formed from the Federation of Malaya, Singapore, North Borneo (Sabah) and Sarawak. However, Singapore soon leaves this new country.",
+			"link": "https://en.wikipedia.org/wiki/Malaysia"
+		},
+		{
+			"year": "1987",
+			"description": "",
+			"short": "The Montreal Protocol is signed to protect the ozone layer from depletion.",
+			"link": "https://en.wikipedia.org/wiki/Ozone_layer"
+		},
+		{
+			"year": "1992",
+			"description": "",
+			"short": "The pound is forced out of the European Exchange Rate Mechanism by currency speculators and is forced to devalue against the German mark, in an event called Black Wednesday. George Soros made over £1 billion in profit by short selling.",
+			"link": "https://en.wikipedia.org/wiki/Black_Wednesday"
+		},
+		{
+			"year": "1777",
+			"description": "",
+			"short": "Nathan Mayer Rothschild, German-English banker and financier is born.",
+			"link": "https://en.wikipedia.org/wiki/Nathan_Mayer_Rothschild"
+		}
+	],
+	"date": "09-16"
+}

@@ -1,0 +1,41 @@
+﻿{
+	"events": [
+		{
+			"year": "1297",
+			"description": "",
+			"short": "Battle of Stirling Bridge: Scots jointly-led by William Wallace and Andrew Moray defeat the English. That’s William Wallace of Braveheart.",
+			"link": "https://en.wikipedia.org/wiki/Battle_of_Stirling_Bridge"
+		},
+		{
+			"year": "1789",
+			"description": "",
+			"short": "Alexander Hamilton is appointed the first United States Secretary of the Treasury.",
+			"link": "https://en.wikipedia.org/wiki/United_States_Secretary_of_the_Treasury"
+		},
+		{
+			"year": "1792",
+			"description": "",
+			"short": "The Hope Diamond is stolen along with other French crown jewels when six men break into the house where they are stored.",
+			"link": "https://en.wikipedia.org/wiki/Hope_Diamond"
+		},
+		{
+			"year": "1940",
+			"description": "",
+			"short": "George Stibitz performs the first remote operation of a computer.",
+			"link": "https://en.wikipedia.org/wiki/George_Stibitz"
+		},
+		{
+			"year": "1978",
+			"description": "",
+			"short": "Janet Parker is the last person to die of smallpox, today considered an eradicated disease.",
+			"link": "https://en.wikipedia.org/wiki/Smallpox"
+		},
+		{
+			"year": "2001",
+			"description": "",
+			"short": "Two hijacked aircraft crash into the World Trade Center in New York City, while a third smashes into The Pentagon, and a fourth into a field near Shanksville, Pennsylvania,",
+			"link": "https://en.wikipedia.org/wiki/September_11_attacks"
+		}
+	],
+	"date": "09-11"
+}

@@ -1,0 +1,53 @@
+﻿{
+	"events": [
+		{
+			"year": "1630",
+			"description": "",
+			"short": "The city of Boston, Massachusetts is founded.",
+			"link": "https://en.wikipedia.org/wiki/Boston"
+		},
+		{
+			"year": "1916",
+			"description": "",
+			"short": "Manfred von Richthofen (‘The Red Baron’), a flying ace of the German Luftstreitkräfte, wins his first aerial combat.",
+			"link": "https://en.wikipedia.org/wiki/Manfred_von_Richthofen"
+		},
+		{
+			"year": "1939",
+			"description": "",
+			"short": "The Soviet Union joins Nazi Germany's invasion of Poland.",
+			"link": "https://en.wikipedia.org/wiki/Invasion_of_Poland"
+		},
+		{
+			"year": "1976",
+			"description": "",
+			"short": "The first Space Shuttle, Enterprise, is unveiled by NASA.",
+			"link": "https://en.wikipedia.org/wiki/Space_Shuttle_Enterprise"
+		},
+		{
+			"year": "1987",
+			"description": "",
+			"short": " Pope John Paul II embraces an AIDS-infected boy while visiting San Francisco.",
+			"link": "https://en.wikipedia.org/wiki/Pope_John_Paul_II"
+		},
+		{
+			"year": "1991",
+			"description": "",
+			"short": "The first version of the Linux kernel (0.01) is released to the Internet.",
+			"link": "https://en.wikipedia.org/wiki/Linux"
+		},
+		{
+			"year": "1859",
+			"description": "",
+			"short": "Billy the Kid is born.",
+			"link": "https://en.wikipedia.org/wiki/Billy_the_Kid"
+		},
+		{
+			"year": "1945",
+			"description": "",
+			"short": "Phil Jackson, basketball player and coach, is born.",
+			"link": "https://en.wikipedia.org/wiki/Phil_Jackson"
+		}
+	],
+	"date": "09-17"
+}

@@ -1,0 +1,47 @@
+﻿{
+	"events": [
+		{
+			"year": "1791",
+			"description": "",
+			"short": "Washington, D.C., the capital of the United States, is named after President George Washington.",
+			"link": "https://en.wikipedia.org/wiki/George_Washington"
+		},
+		{
+			"year": "1850",
+			"description": "",
+			"short": "California is admitted as the thirty-first U.S. state.",
+			"link": "https://en.wikipedia.org/wiki/California"
+		},
+		{
+			"year": "1971",
+			"description": "",
+			"short": "Attica Prison riot begins.",
+			"link": "https://en.wikipedia.org/wiki/Attica_Prison_riot"
+		},
+		{
+			"year": "1999",
+			"description": "",
+			"short": "Sega releases the first 128-bit video game console, the Dreamcast. That turned out to be their last home console after almost two decades in the market.",
+			"link": "https://en.wikipedia.org/wiki/Dreamcast"
+		},
+		{
+			"year": "2015",
+			"description": "",
+			"short": "Queen Elizabeth II became the longest reigning monarch of the United Kingdom, surpassing the reign of her great-great-grandmother Victoria..",
+			"link": "https://en.wikipedia.org/wiki/List_of_monarchs_in_Britain_by_length_of_reign"
+		},
+		{
+			"year": "1585",
+			"description": "",
+			"short": "Cardinal Richelieu, French cardinal and politician is born. Later he served as one of the main characters of The Three Musketeers.",
+			"link": "https://en.wikipedia.org/wiki/The_Three_Musketeers"
+		},
+		{
+			"year": "1754",
+			"description": "",
+			"short": "William Bligh, English admiral is born. History often remembers him as captain of Bounty, who was left adrift after a mutiny.",
+			"link": "https://en.wikipedia.org/wiki/Mutiny_on_the_Bounty"
+		}
+	],
+	"date": "09-09"
+}

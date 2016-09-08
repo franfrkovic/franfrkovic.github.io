@@ -1,0 +1,59 @@
+﻿{
+	"events": [
+		{
+			"year": "1789",
+			"description": "",
+			"short": "The United States ‘Department of Foreign Affairs’, established by law in July, is renamed the Department of State.",
+			"link": "https://en.wikipedia.org/wiki/United_States_Department_of_State"
+		},
+		{
+			"year": "1812",
+			"description": "",
+			"short": "The French army under Napoleon reaches the Kremlin in Moscow.",
+			"link": "https://en.wikipedia.org/wiki/Napoleon"
+		},
+		{
+			"year": "1830",
+			"description": "",
+			"short": "The Liverpool to Manchester railway line opens.",
+			"link": "https://en.wikipedia.org/wiki/Opening_of_the_Liverpool_and_Manchester_Railway"
+		},
+		{
+			"year": "1835",
+			"description": "",
+			"short": "HMS Beagle, with Charles Darwin aboard, reaches the Galápagos Islands.",
+			"link": "https://en.wikipedia.org/wiki/HMS_Beagle"
+		},
+		{
+			"year": "1916",
+			"description": "",
+			"short": "Tanks are used for the first time in battle, at the Battle of the Somme in WW1.",
+			"link": "https://en.wikipedia.org/wiki/Tank"
+		},
+		{
+			"year": "1935",
+			"description": "",
+			"short": "Nazi Germany adopts a new national flag bearing the swastika.",
+			"link": "https://en.wikipedia.org/wiki/Swastika"
+		},
+		{
+			"year": "1948",
+			"description": "",
+			"short": "The F-86 Sabre sets the world aircraft speed record at 671 miles per hour (1,080 km/h).",
+			"link": "https://en.wikipedia.org/wiki/F-86_Sabre"
+		},
+		{
+			"year": "2008",
+			"description": "",
+			"short": "Lehman Brothers files for bankruptcy, the largest bankruptcy filing in U.S. history.",
+			"link": "https://en.wikipedia.org/wiki/Lehman_Brothers"
+		},
+		{
+			"year": "1254",
+			"description": "",
+			"short": "Marco Polo is born.",
+			"link": "https://en.wikipedia.org/wiki/Marco_Polo"
+		}
+	],
+	"date": "09-15"
+}

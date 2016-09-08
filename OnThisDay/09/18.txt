@@ -1,0 +1,59 @@
+﻿{
+	"events": [
+		{
+			"year": "1066",
+			"description": "",
+			"short": "Norwegian king Harald Hardrada lands on the beaches of Scarborough and began his invasion of England.",
+			"link": "https://en.wikipedia.org/wiki/Harald_Hardrada"
+		},
+		{
+			"year": "1502",
+			"description": "",
+			"short": "Christopher Columbus lands at Honduras on his fourth, and final, voyage.",
+			"link": "https://en.wikipedia.org/wiki/Honduras"
+		},
+		{
+			"year": "1919",
+			"description": "",
+			"short": "The Netherlands gives women the right to vote.",
+			"link": "https://en.wikipedia.org/wiki/Women%27s_suffrage"
+		},
+		{
+			"year": "1947",
+			"description": "",
+			"short": "CIA (Central Intelligence Agency) is established in the United States under the National Security Act.",
+			"link": "https://en.wikipedia.org/wiki/Central_Intelligence_Agency"
+		},
+		{
+			"year": "1977",
+			"description": "",
+			"short": "Voyager I takes first photograph of the Earth and the Moon together.",
+			"link": "http://earthsky.org/space/this-date-in-science-sept-18-1977-voyager-1-earth-moon-photo"
+		},
+		{
+			"year": "1997",
+			"description": "",
+			"short": "Anti-Personnel Mine Ban Convention is adopted.",
+			"link": "https://en.wikipedia.org/wiki/Ottawa_Treaty"
+		},
+		{
+			"year": "1998",
+			"description": "",
+			"short": "ICANN is formed. They are pretty much responsible that domains on the Internet work.",
+			"link": "https://www.icann.org"
+		},
+		{
+			"year": "2014",
+			"description": "",
+			"short": "Scotland votes against independence from the United Kingdom.",
+			"link": "https://en.wikipedia.org/wiki/Scottish_independence_referendum,_2014"
+		},
+		{
+			"year": "53",
+			"description": "",
+			"short": "Roman emperor Trajan is born. Under his reign the Empire reached maximum territorial extent.",
+			"link": "https://en.wikipedia.org/wiki/Trajan"
+		}
+	],
+	"date": "09-18"
+}

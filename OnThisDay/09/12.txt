@@ -1,0 +1,41 @@
+﻿{
+	"events": [
+		{
+			"year": "490 BC",
+			"description": "",
+			"short": "Battle of Marathon, now most famous as the inspiration for the marathon race, is fought between Athens and Persians.",
+			"link": "https://en.wikipedia.org/wiki/Marathon"
+		},
+		{
+			"year": "1848",
+			"description": "",
+			"short": "Switzerland becomes a Federal state.",
+			"link": "https://en.wikipedia.org/wiki/Switzerland"
+		},
+		{
+			"year": "1919",
+			"description": "",
+			"short": "Adolf Hitler joins the German Workers' Party (later the Nazi Party).",
+			"link": "https://en.wikipedia.org/wiki/German_Workers%27_Party"
+		},
+		{
+			"year": "1940",
+			"description": "",
+			"short": "Cave paintings estimated to be over 17,000 years old are discovered in Lascaux, France.",
+			"link": "https://en.wikipedia.org/wiki/Lascaux"
+		},
+		{
+			"year": "1958",
+			"description": "",
+			"short": "Jack Kilby demonstrates the first integrated circuit. One of those is today inside of the device you’re reading this on.",
+			"link": "https://en.wikipedia.org/wiki/Integrated_circuit"
+		},
+		{
+			"year": "1913",
+			"description": "",
+			"short": "Jesse Owens, American sprinter and long jumper, is born",
+			"link": "https://en.wikipedia.org/wiki/1936_Summer_Olympics"
+		}
+	],
+	"date": "09-12"
+}
