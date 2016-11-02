@@ -1,0 +1,11 @@
+﻿{
+	"events": [
+		{
+			"year": "2016",
+			"description": "",
+			"short": "test 1",
+			"link": "https://en.wikipedia.org/"
+		}
+	],
+	"date": "10-01"
+}
