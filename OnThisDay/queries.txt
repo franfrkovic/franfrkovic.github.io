@@ -1,0 +1,9 @@
+https://en.wikipedia.org/w/api.php?action=query&titles=Wikipedia:Selected%20anniversaries/October%202&prop=revisions&rvprop=content&format=json
+
+https://en.wikipedia.org/w/api.php?action=query&titles=Wikipedia:Selected%20anniversaries/October%202&prop=extracts&exintro=&explaintext&rvprop=content&format=json
+
+https://en.wikipedia.org/w/api.php?action=query&titles=Wikipedia:Selected%20anniversaries/October%202&prop=extracts&exintro=&explaintext&format=json
+
+https://en.wikipedia.org/w/api.php?action=query&titles=Wikipedia:Selected%20anniversaries/October%202&prop=extracts&explaintext&format=json&formatversion=2
+
+{"batchcomplete":true,"query":{"pages":[{"pageid":492885,"ns":4,"title":"Wikipedia:Selected anniversaries/October 2","extract":"October 2: International Day of Non-Violence; Rosh Hashanah (Jewish New Year) begins at sunset (2016, AM 5777); Gandhi Jayanti in India\n\n1263 – Scottish–Norwegian War: The armies of Norway and Scotland fought at the Battle of Largs, an inconclusive engagement near the present-day town of Largs in North Ayrshire.\n1535 – French explorer Jacques Cartier (pictured) sailed along the St. Lawrence River and reached the Iroquois fortified village Hochelaga on the island now known as Montreal.\n1941 – World War II: Nazi German forces began Operation Typhoon, an all-out offensive to begin the three-month long Battle of Moscow.\n1996 – A maintenance worker's failure to remove tape covering the static ports of the aircraft caused Aeroperú Flight 603 to crash into the ocean near Lima, Peru, due to instrument failure.\n2006 – A gunman killed five Amish girls before committing suicide in a one-room schoolhouse in Nickel Mines, Pennsylvania, US."}]}}
