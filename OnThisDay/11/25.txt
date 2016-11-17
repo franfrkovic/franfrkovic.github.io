@@ -1,0 +1,17 @@
+﻿{
+	"events": [
+		{
+			"year": "1177",
+			"description": "",
+			"short": "Baldwin IV of Jerusalem and Raynald of Châtillon defeat Saladin at the Battle of Montgisard.",
+			"link": "https://en.wikipedia.org/wiki/Baldwin_IV_of_Jerusalem"
+		},
+		{
+			"year": "1915",
+			"description": "",
+			"short": "Albert Einstein presents the field equations of general relativity to the Prussian Academy of Sciences.",
+			"link": "https://en.wikipedia.org/wiki/Einstein_field_equations"
+		}
+	],
+	"date": "11-25"
+}

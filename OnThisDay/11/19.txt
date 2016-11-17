@@ -1,0 +1,17 @@
+﻿{
+	"events": [
+		{
+			"year": "1493",
+			"description": "",
+			"short": "Christopher Columbus goes ashore on an island he first saw the day before.",
+			"link": "https://en.wikipedia.org/wiki/Puerto_Rico"
+		},
+		{
+			"year": "1969",
+			"description": "",
+			"short": "Soccer player Pelé scores his 1,000th goal.",
+			"link": "https://en.wikipedia.org/wiki/Pelé"
+		}
+	],
+	"date": "11-19"
+}

@@ -1,0 +1,17 @@
+﻿{
+	"events": [
+		{
+			"year": "1924",
+			"description": "",
+			"short": "Edwin Hubble's discovery that the Andromeda nebula is actually another island universe far outside of our own was first published in The New York Times.",
+			"link": "https://en.wikipedia.org/wiki/Galaxy"
+		},
+		{
+			"year": "1992",
+			"description": "",
+			"short": "The first smartphone, the IBM Simon, is introduced at COMDEX in Las Vegas, Nevada.",
+			"link": "https://en.wikipedia.org/wiki/IBM_Simon"
+		}
+	],
+	"date": "11-23"
+}

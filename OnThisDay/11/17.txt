@@ -1,0 +1,17 @@
+﻿{
+	"events": [
+		{
+			"year": "1933",
+			"description": "",
+			"short": "United States recognizes Soviet Union.",
+			"link": "https://en.wikipedia.org/wiki/Soviet_Union"
+		},
+		{
+			"year": "1973",
+			"description": "",
+			"short": "U.S. President Richard Nixon tells 400 Associated Press managing editors ‘I am not a crook.’",
+			"link": "https://en.wikipedia.org/wiki/Watergate_scandal"
+		}
+	],
+	"date": "11-17"
+}

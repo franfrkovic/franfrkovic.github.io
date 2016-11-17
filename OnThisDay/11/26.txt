@@ -1,0 +1,17 @@
+﻿{
+	"events": [
+		{
+			"year": "1789",
+			"description": "",
+			"short": "A national Thanksgiving Day is observed in the United States as proclaimed by President George Washington at the request of Congress.",
+			"link": "https://en.wikipedia.org/wiki/Thanksgiving_(United_States)"
+		},
+		{
+			"year": "1863",
+			"description": "",
+			"short": "United States President Abraham Lincoln proclaims November 26 as a national Thanksgiving Day, to be celebrated annually on the final Thursday of November.",
+			"link": "https://en.wikipedia.org/wiki/Thanksgiving_(United_States)"
+		}
+	],
+	"date": "11-26"
+}

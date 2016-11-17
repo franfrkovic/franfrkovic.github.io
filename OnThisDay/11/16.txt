@@ -1,0 +1,17 @@
+﻿{
+	"events": [
+		{
+			"year": "1272",
+			"description": "",
+			"short": "While travelling during the Ninth Crusade, Prince Edward becomes King of England upon Henry III of England's death, but he will not return to England",
+			"link": "https://en.wikipedia.org/wiki/Edward_I_of_England"
+		},
+		{
+			"year": "1849",
+			"description": "",
+			"short": "Fyodor Dostoyevsky sentenced to death for anti-government activities linked to a radical intellectual group; his sentence is later commuted to hard labor.",
+			"link": "https://en.wikipedia.org/wiki/Fyodor_Dostoyevsky"
+		}
+	],
+	"date": "11-16"
+}

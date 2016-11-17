@@ -1,0 +1,23 @@
+﻿{
+	"events": [
+		{
+			"year": "1899",
+			"description": "",
+			"short": "FC Barcelona Association football club is founded.",
+			"link": "https://en.wikipedia.org/wiki/FC_Barcelona"
+		},
+		{
+			"year": "1945",
+			"description": "",
+			"short": "The Federal People's Republic of Yugoslavia is declared.",
+			"link": "https://en.wikipedia.org/wiki/Federal_People%27s_Republic_of_Yugoslavia"
+		},
+		{
+			"year": "1972",
+			"description": "",
+			"short": "Atari announces the release of Pong, the first commercially successful video game.",
+			"link": "https://en.wikipedia.org/wiki/Pong"
+		}
+	],
+	"date": "11-29"
+}

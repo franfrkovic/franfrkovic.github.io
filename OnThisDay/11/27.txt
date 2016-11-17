@@ -1,0 +1,17 @@
+﻿{
+	"events": [
+		{
+			"year": "1095",
+			"description": "",
+			"short": "Pope Urban II declares the First Crusade at the Council of Clermont.",
+			"link": "https://en.wikipedia.org/wiki/First_Crusade"
+		},
+		{
+			"year": "1896",
+			"description": "",
+			"short": "Also sprach Zarathoustra by Richard Strauss is first performed.",
+			"link": "https://en.wikipedia.org/wiki/Also_sprach_Zarathustra_(Strauss)"
+		}
+	],
+	"date": "11-27"
+}

@@ -1,0 +1,17 @@
+﻿{
+	"events": [
+		{
+			"year": "3340 BC",
+			"description": "",
+			"short": "Earliest believed record of an eclipse.",
+			"link": "https://en.wikipedia.org/wiki/Eclipse#Historical_record"
+		},
+		{
+			"year": "1982",
+			"description": "",
+			"short": "Michael Jackson's second solo album, Thriller is released worldwide. It will become the best-selling record album in history.",
+			"link": "https://en.wikipedia.org/wiki/Thriller_(Michael_Jackson_album)"
+		}
+	],
+	"date": "11-30"
+}

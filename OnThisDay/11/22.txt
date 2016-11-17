@@ -1,0 +1,17 @@
+﻿{
+	"events": [
+		{
+			"year": "1963",
+			"description": "",
+			"short": "US President John F. Kennedy is assassinated in Dallas, Texas. Vice President Lyndon B. Johnson becomes President.",
+			"link": "https://en.wikipedia.org/wiki/Assassination_of_John_F._Kennedy"
+		},
+		{
+			"year": "1986",
+			"description": "",
+			"short": "Mike Tyson defeats Trevor Berbick to become youngest Heavyweight champion in boxing history.",
+			"link": "https://en.wikipedia.org/wiki/Mike_Tyson"
+		}
+	],
+	"date": "11-22"
+}

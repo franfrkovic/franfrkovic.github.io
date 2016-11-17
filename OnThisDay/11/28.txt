@@ -1,0 +1,11 @@
+﻿{
+	"events": [
+		{
+			"year": "1893",
+			"description": "",
+			"short": "New Zealand becomes the first country in which women vote in a national election.",
+			"link": "https://en.wikipedia.org/wiki/New_Zealand"
+		}
+	],
+	"date": "11-28"
+}

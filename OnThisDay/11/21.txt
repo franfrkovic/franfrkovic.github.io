@@ -1,0 +1,11 @@
+﻿{
+	"events": [
+		{
+			"year": "1877",
+			"description": "",
+			"short": "Thomas Edison announces his invention of the phonograph, a machine that can record and play sound.",
+			"link": "https://en.wikipedia.org/wiki/Phonograph"
+		}
+	],
+	"date": "11-21"
+}

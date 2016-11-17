@@ -1,0 +1,23 @@
+﻿{
+	"events": [
+		{
+			"year": "284",
+			"description": "",
+			"short": "Diocletian is chosen as Roman emperor.",
+			"link": "https://en.wikipedia.org/wiki/Diocletian"
+		},
+		{
+			"year": "1789",
+			"description": "",
+			"short": "New Jersey becomes the first U.S. state to ratify the Bill of Rights.",
+			"link": "https://en.wikipedia.org/wiki/United_States_Bill_of_Rights"
+		},
+		{
+			"year": "1962",
+			"description": "",
+			"short": "Cuban Missile Crisis ends: In response to the Soviet Union agreeing to remove its missiles from Cuba, U.S. President John F. Kennedy ends the quarantine of the Caribbean nation.",
+			"link": "https://en.wikipedia.org/wiki/Cuban_Missile_Crisis"
+		}
+	],
+	"date": "11-20"
+}

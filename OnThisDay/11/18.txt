@@ -1,0 +1,17 @@
+﻿{
+	"events": [
+		{
+			"year": "1307",
+			"description": "",
+			"short": "According to legend, William Tell shoots an apple off his son's head.",
+			"link": "https://en.wikipedia.org/wiki/William_Tell"
+		},
+		{
+			"year": "1626",
+			"description": "",
+			"short": "The new St. Peter's Basilica is consecrated.",
+			"link": "https://en.wikipedia.org/wiki/St._Peter%27s_Basilica"
+		}
+	],
+	"date": "11-18"
+}
